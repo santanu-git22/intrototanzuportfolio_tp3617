@@ -25,7 +25,7 @@ Please review the sections below to learn more about how VMware Tanzu Basic and 
 
 ## Introducing Tanzu Editions
 
-VMware Tanzu editions deliver a simplified packaging for Tanzu portfolio products helping customers to more easily access the right solution set to meets their needs. The editions build on each other in capabilities. Please note that VMware Tanzu products can also be purchased individually and do not require the purchase of a Tanzu Edition. 
+VMware Tanzu editions deliver a simplified packaging for Tanzu portfolio products helping customers to more easily access the right solution set to meet their needs. The editions build on each other in capabilities. Please note that VMware Tanzu products can also be purchased individually and do not require the purchase of a Tanzu Edition. 
 
 ![Tanzu Editions and Services](../TanzuEditionsAndServices.png)
 

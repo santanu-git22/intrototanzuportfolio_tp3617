@@ -5,7 +5,7 @@ weight: 1025
 draft: false
 ---
 
-All Modernapps Learning content is publicly accessible and available openly, however a free membership is required to take tests and recieve a certificate of completion for the course. You must first [join the community](https://modernapps.ninja/about/membership/) and register for this course per the instructions in the course introduction section before attempting to submit a test.
+All Modernapps Learning content is publicly accessible and available openly, however a free membership is required to take tests and receive a certificate of completion for the course. You must first [join the community](https://modernapps.ninja/about/membership/) and register for this course per the instructions in the course introduction section before attempting to submit a test.
 
 ModernApps Learning tests use devops tools and processes so the testing system itself provides both experience with and validation of foundational devops skills.
 

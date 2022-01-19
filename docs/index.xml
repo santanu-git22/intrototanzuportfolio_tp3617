@@ -17,6 +17,8 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
+&lt;h2 id="important-notice">Important Notice:&lt;/h2>
+&lt;p>&lt;strong>The Enrollment, testing and digital badge features will be removed on Friday February 18th, 2022. Please ensure you have completed any test and digital badge requests prior to this date. The course materials will still be available.&lt;/strong>&lt;/p>
 &lt;h2 id="about-this-course">About this Course&lt;/h2>
 &lt;p>Welcome to the Introduction to the VMware Tanzu Portfolio Course.&lt;/p>
 &lt;p>VMware Tanzu is a family of products and services for modernizing your applications and infrastructure with a common goal: deliver better software to production, continuously. The portfolio simplifies multi-cloud operations, while freeing developers to move faster and access the right resources for building and delivering modern applications.&lt;/p>
@@ -32,11 +34,13 @@
 &lt;p>We make a strong effort to keep the content in this course as current as possible, however the Tanzu Portfolio is rapidly growing and there may be times where this course may not include the newest updates. Always refer to the official &lt;a href="https://tanzu.vmware.com/">VMware Tanzu Portfiolio Website&lt;/a> and your VMware account team for the latest details on products covered in this course.&lt;/p>
 &lt;p>As part of our effort to keep this course as up-to-date as possible, this course is on a continuous update lifecycle. This means that the course can be updated at any time, and new content and requirements may be added while you are taking your course. We will make effort to notify members in advance of any significant updates are made to minimize any unexpected changes to course completion requirements.&lt;/p>
 &lt;h2 id="enrollment-tests--completion-badge">Enrollment, Tests &amp;amp; Completion Badge&lt;/h2>
+&lt;p>&lt;strong>The Enrollment, testing and digital badge features will be removed on Friday February 18th, 2022. Please ensure you have completed any test and digital badge requests prior to this date. The course materials will still be available.&lt;/strong>&lt;/p>
 &lt;p>All content in this course is publicly viewable, no registration or enrollment is required to view course materials.&lt;/p>
 &lt;p>However, the course offers enrollment and provides a test which if completed successfully can award participants with an official digital badge validating successful completion of the course.&lt;/p>
 &lt;p>ModernApps Learning uses GitOps methods for course enrollment, testing and badging, to help teach and validate important git and devops skills for course participants. Instructions for each step is provided within this course; however if you are new to Git or want to learn more about the ModernApps Learning by VMware Tanzu program, we recommend taking the &lt;a href="https://modernapps.ninja/modernappsskills101_ms4043/docs/">ModernApps Skills 101 Course&lt;/a> as it provides instructions on joining the community, course enrollment, test taking, and how to request a digital badge when you complete a course.&lt;/p>
 &lt;p>Below please find detailed instructions for Enrolling for this course:&lt;/p>
 &lt;h3 id="enroll-for-this-course">Enroll for this course&lt;/h3>
+&lt;p>&lt;strong>The Enrollment, testing and digital badge features will be removed on Friday February 18th, 2022. Please ensure you have completed any test and digital badge requests prior to this date. The course materials will still be available.&lt;/strong>&lt;/p>
 &lt;p>You must first be a member of the community before you can enroll for this course. Ensure that you have fully completed the community member enrollment process before proceeding.&lt;/p>
 &lt;p>To enroll for this course, follow the detailed instructions below to post a simple file with your github username to this repository. This process, while simple to follow, helps participants to gain experience and comfort, and validate their knowledge with foundational devops tools and process.&lt;/p>
 &lt;p>Posting a file to enroll uses the git pull request process, which is one of the most important and common foundational skills for participating in devops, cloud native, and infrastructure modernization initiatives.&lt;/p>

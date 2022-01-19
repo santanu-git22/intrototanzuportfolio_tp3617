@@ -15,6 +15,10 @@ weight: 1004
     - [Step 3 - Add a line to your file](#step-3---add-a-line-to-your-file)
     - [Step 4 - Submit your enrollment document](#step-4---submit-your-enrollment-document)
 
+## Important Notice: 
+
+**The Enrollment, testing and digital badge features will be removed on Friday February 18th, 2022. Please ensure you have completed any test and digital badge requests prior to this date. The course materials will still be available.**
+
 ## About this Course
 
 Welcome to the Introduction to the VMware Tanzu Portfolio Course.
@@ -45,6 +49,8 @@ As part of our effort to keep this course as up-to-date as possible, this course
 
 ## Enrollment, Tests & Completion Badge
 
+**The Enrollment, testing and digital badge features will be removed on Friday February 18th, 2022. Please ensure you have completed any test and digital badge requests prior to this date. The course materials will still be available.**
+
 All content in this course is publicly viewable, no registration or enrollment is required to view course materials. 
 
 However, the course offers enrollment and provides a test which if completed successfully can award participants with an official digital badge validating successful completion of the course. 
@@ -54,6 +60,8 @@ ModernApps Learning uses GitOps methods for course enrollment, testing and badgi
 Below please find detailed instructions for Enrolling for this course:
 
 ### Enroll for this course
+
+**The Enrollment, testing and digital badge features will be removed on Friday February 18th, 2022. Please ensure you have completed any test and digital badge requests prior to this date. The course materials will still be available.**
 
 You must first be a member of the community before you can enroll for this course. Ensure that you have fully completed the community member enrollment process before proceeding.
 
